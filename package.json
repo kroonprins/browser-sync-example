@@ -1,0 +1,17 @@
+{
+  "name": "browser-sync",
+  "version": "1.0.0",
+  "description": "Use browser-sync with backbase portal",
+  "main": "sync.js",
+  "dependencies": {
+    "browser-sync": "^2.14.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "browser-sync"
+  ],
+  "author": "tobias",
+  "license": "ISC"
+}
